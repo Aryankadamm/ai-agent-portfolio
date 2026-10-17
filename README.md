@@ -1,6 +1,6 @@
 # AI Agent Developer Portfolio
 
-Static portfolio site for an aspiring AI agent developer. Open `index.html` in a browser to preview it.
+Static portfolio site for an aspiring AI agent developer. Live site: https://aryankadamm.github.io/ai-agent-portfolio/ . Open `index.html` in a browser to preview it locally.
 
 ## Personalize
 
@@ -8,5 +8,5 @@ The site uses the GitHub account name and username available during setup. Add a
 
 ## Publish
 
-Host this folder with GitHub Pages or any static site host. The site uses plain HTML and CSS; no build step is required.
+This repository is configured to publish from the `main` branch using GitHub Pages. The site uses plain HTML and CSS; no build step is required.
 
