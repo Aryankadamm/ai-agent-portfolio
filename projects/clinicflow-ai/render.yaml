@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: clinicflow-ai-demo
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: CLINIC_NAME
+        value: Northstar Family Clinic
+      - key: CLINIC_TIMEZONE
+        value: Asia/Kolkata

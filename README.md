@@ -10,3 +10,6 @@ The site uses the GitHub account name and username available during setup. Add a
 
 This repository is configured to publish from the `main` branch using GitHub Pages. The site uses plain HTML and CSS; no build step is required.
 
+## Featured projects
+
+- [ClinicFlow AI](projects/clinicflow-ai/README.md) — a full-stack, synthetic-data clinic front-desk demo with a bounded AI agent. It does not provide medical advice or use real patient records.

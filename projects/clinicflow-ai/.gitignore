@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+backend/clinicflow.db
+.DS_Store
+.artifact-runtime/
+outputs/
+tmp/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
