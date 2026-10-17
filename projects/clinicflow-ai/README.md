@@ -51,8 +51,8 @@ The API runs at `http://127.0.0.1:8000`. The interactive API reference is at `ht
 In a second terminal, from the repository root:
 
 ```powershell
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Open the local URL printed by Vite (usually `http://localhost:5173`).
